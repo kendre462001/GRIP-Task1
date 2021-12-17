@@ -1,1 +1,4 @@
-# GRIP-Task1
+#THE SPARK FOUNDATION 
+#GRIP DEC 2021 batch
+TASK 1:Simple linear regression
+AUTHOR:KENDRE BALIRAM
